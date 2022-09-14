@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    }
+
+    @font-face {
+        font-family: 'The Smell After Rain Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('The Smell After Rain Regular'), url('Thesmellafterrain-8MBKn.woff') format('woff');
+        }
+
+    h2 {
+        font-family: 'SEGA LOGO FONT';
+        font-weight: 10;
+        color: coral;
+    }
+
+p {
+    font-family: 'The Smell After Rain Regular';
+        font-weight: 10;
+        color: rgb(206, 73, 24);
+}
+
